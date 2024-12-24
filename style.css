@@ -68,7 +68,8 @@ nav a:hover, nav a.active{
 @media(max-width: 995px){
     nav{
         position: absolute;
-        top: 100%;
+        display: none;
+        top: 0;
         right: 0;
         width: 40%;
         border-left: 3px solid dodgerblue;
@@ -156,7 +157,7 @@ span{
     border-radius: 50%;
     margin: 3rem 1.5rem 3rem 0;
     transition: 0.3s ease;
-    color: white;
+    color: dodgerblue;
 }
 
 .socials a:hover{
