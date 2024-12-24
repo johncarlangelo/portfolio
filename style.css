@@ -126,6 +126,11 @@ span{
     font-weight: 700;
 }
 
+.main-content p{
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+}
+
 .home-image{
     border-radius: 50%;
 
@@ -260,7 +265,7 @@ span{
     }
 
     .home-image img{
-        width: 70vh;
+        width: 70vw;
         margin-top: 4rem;
     }
 }
